@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GnlO0zzk8No=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rexka\\ConnectFour\\ConnectFour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rexka\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.14\\microsoft.aspnetcore.app.internal.assets.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
